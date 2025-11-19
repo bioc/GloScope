@@ -1,4 +1,4 @@
-Version 2.1.1 (2025-09-27)
+Version 2.0.1 (2025-11-19)
 ====================================
 - Fix so handles if no column names which was creating error with latest version of `mclust`
 
